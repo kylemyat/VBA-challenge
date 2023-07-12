@@ -9,4 +9,5 @@ The following resources were used for the understanding and implementation of a 
 
 [How to Run The Same Macro on Multiple Worksheets at The Same Time](https://www.extendoffice.com/documents/excel/5333-excel-run-macro-multiple-sheets.html) - ExtendOffice 
 
-https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
+[Macro to Loop Through All Worksheets in a Workbook](https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0) - Microsoft Support
+
