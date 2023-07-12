@@ -7,6 +7,6 @@ The summarized data includes the ticker symbol, yearly change, percent change, t
 Lines 4 to 7 is a loop which applies the rest of the code to each worksheet.
 The following resources were used for the understanding and implementation of a loop through worksheets in the workbook: 
 
-["How to Run The Same Macro on Multiple Worksheets at The Same Time"] - ExtendOffice (https://www.extendoffice.com/documents/excel/5333-excel-run-macro-multiple-sheets.html)
+"[How to Run The Same Macro on Multiple Worksheets at The Same Time"]" "(https://www.extendoffice.com/documents/excel/5333-excel-run-macro-multiple-sheets.html)" - ExtendOffice 
 
 https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
