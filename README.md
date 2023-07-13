@@ -11,3 +11,4 @@ The following resources were used for the understanding and implementation of a 
 
 "[Macro to Loop Through All Worksheets in a Workbook](https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0)" - Microsoft Support
 
+The following is a link to the Challenge 2 excel file on google drive: https://drive.google.com/file/d/1AaDk76cB83Rql44UFECJdM6UVew2YsCc/view?usp=sharing
